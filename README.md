@@ -4,7 +4,7 @@ Perkenalkan nama saya *Ariyan Andryan Aryja*.<br>
 
 Saya seorang *Graphic Designer*.<br>
 
-Saya pernah mengikuti Praktik Kerja Lapangan atau PKL di Biznet.<br>.<br>
+Saya pernah mengikuti Praktik Kerja Lapangan atau PKL di Biznet.<br>
 
 Saya juga merupakan mahasiswa Teknik Informatika di Politeknik Baja Tegal.<br>
 
