@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Tailwind, CSS**
 
-<h3 align="left">Connect With Me: [LinkedIn](https://www.linkedin.com/in/ariyan-andryan-aryja-927730332/)</h3>
+### Connect With Me: [LinkedIn](https://www.linkedin.com/in/ariyan-andryan-aryja-927730332/)
 <p align="left">
 </p>
 
