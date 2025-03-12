@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate fullstack developer from Indonesian</h3>
+<h3 align="center">A passionate UI/UX Designer from Indonesian</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanz23" alt="ryanz23" /></a> </p>
 
