@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/user-attachments/assets/eee129be-a986-4710-8ede-0af6ce12984f">
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate UI/UX Designer from Indonesian</h3>
 
