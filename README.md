@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate UI/UX Designer from Indonesian</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next Js** and **TypeScript**
 
 - 💬 Ask me about **Tailwind, CSS**
 
