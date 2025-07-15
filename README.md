@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Andryan</h1>
 <h3 align="center">A passionate UI/UX Designer from Indonesian</h3>
 
-- 🌱 I’m currently learning **Next Js** and **TypeScript**
+- 🌱 I’m currently learning **Next Js**, **Express**, and **TypeScript**
 
 - 💬 Ask me about **Tailwind, CSS**
 
