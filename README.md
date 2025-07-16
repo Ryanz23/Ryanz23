@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next Js**, **Express**, and **TypeScript**
 
-- 💬 Ask me about **Tailwind, CSS**
+- 💬 Ask me about **JavaScript, Tailwind, CSS**
 
 ### Connect With Me: [LinkedIn](https://www.linkedin.com/in/ariyan-andryan-aryja-927730332/)
 <p align="left">
