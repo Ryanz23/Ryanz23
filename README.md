@@ -1,8 +1,8 @@
 <img align="center" src="https://github.com/user-attachments/assets/eee129be-a986-4710-8ede-0af6ce12984f">
 <h1 align="center">Hi 👋, I'm Andryan</h1>
-<h3 align="center">A passionate UI/UX Designer from Indonesian</h3>
+<h3 align="center">Fullstack Developer Enthusiast</h3>
 
-- 🌱 I’m currently learning **Next Js**, **Express**, and **TypeScript**
+- 🌱 I’m currently learning **Next Js**, **Express**, **Go-Lang**, and **TypeScript**
 
 - 💬 Ask me about **JavaScript, Tailwind, CSS**
 
